@@ -1,19 +1,19 @@
 const help = (prefix) => { 
 	return `
 ╭▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂╮
-┃╭┅┈⪼ *EREN YEAGER BOT─╝*
-┊╰⧿─╗ *THANX TO ALLAH*
-┊ ⛬ ╔╯ *VERSION : V4.104.020*
-┠⧿⧿╯⧿⧿⧿⧿⧿⧿⧿⧿⧿⧿⧿⧿⧿⧿⧿⧿
-*┃⛨⧿✧ུNama : Eren Yeager BOT*
-*┃⛨⧿✧ུFounder : Arifi Razzaq*
-*┃⛨⧿✧ུStatus : ACTIVE*
-*┃⛨⧿✧ུPrefix : ❪ ${prefix} ❫*
+*┃╭┅┈⪼ EREN YEAGER BOT─╝*
+*┊╰⧿⧿─╗ THANX TO ALLAH*
+*┊ ⛬ ╔╯ VERSION : V3.104.020*
+┠⧿⧿⧿╯⧿⧿⧿⧿⧿⧿⧿⧿⧿⧿⧿⧿⧿⧿⧿⧿
+┃⛨⧿✧ུNama : *Eren Yeager BOT*
+┃⛨⧿✧ུFounder : *Arifi Razzaq*
+┃⛨⧿✧ུStatus : *ACTIVE*
+┃⛨⧿✧ུPrefix : *❪ ${prefix} ❫*
 ╰⧿╗
-┎⧿┸⧿⪼⦁ *UNTUK INDONESIA*
-┠➤ *Total : 382 Project*
-┠➤ *Update : Rabu 10-02-2021*
-┠➤ *Thanx To : Arifi Razzaq*
+┎⧿┸⧿⚋⪼ *UNTUK INDONESIA*
+┠➤ Total : *357 Project*
+┠➤ Update : *Rabu 10-02-2021*
+┠➤ Thanx To : *Arifi Razzaq*
 ╰▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 ╭━━━━━━━━━⛚⛚⛚⛚⛚⛚
 ┠ *MENU ALL PROJECT*
@@ -58,15 +58,12 @@ const help = (prefix) => {
 ⧼⟞ *${prefix}totaluser*
 ⧼⟞ *${prefix}level*
 ⧼⟞ *${prefix}glass*
-⧼⟞ *${prefix}cekup* 🆕
-⧼⟞ *${prefix}afk* 🆕
 
 ╭━━━━━━━━━⛚⛚⛚⛚⛚⛚
 ┠ *FITUR POPULER*
 ╰━━⛚⛚⛚⛚⛚⛚⛚━━━━━━╯
 
 ⧼⟞ *${prefix}apiteks [text]*
-⧼⟞ *${prefix}tahta [text]*
 ⧼⟞ *${prefix}airteks [text]*
 ⧼⟞ *${prefix}metalteks [text]*
 ⧼⟞ *${prefix}mlogo [text]*
@@ -84,51 +81,73 @@ const help = (prefix) => {
 ⧼⟞ *${prefix}kicktime*
 ⧼⟞ *${prefix}nobg*
 ⧼⟞ *${prefix}url2img*
-⧼⟞ *${prefix}joox*
-⧼⟞ *${prefix}asupan*
 ⧼⟞ *${prefix}virtex* 🆕
-⧼⟞ *${prefix}cogans* 🆕
-⧼⟞ *${prefix}cecans* 🆕
-⧼⟞ *${prefix}wame* 🆕
-⧼⟞ *${prefix}animehug* 🆕
-⧼⟞ *${prefix}spamcall [8xxxx]* 🆕
-┅─┅─┅─┅─┅─┅─┅─┅─┅─┅─ ❁۪۪
-⚘ *MODE PENGEMBANG:*
+⧼⟞ *${prefix}asupan*
+⧼⟞ *${prefix}fotocogan* 🆕
+⧼⟞ *${prefix}fotocecan* 🆕
 
-⪼⦁ *${prefix}leveling [Enable/Disable]*
-⪼⦁ *${prefix}Anime [1/0]*
-⪼⦁ *${prefix}nsfw [1/0]*
-⪼⦁ *${prefix}welcome [1/0]*
-⪼⦁ *${prefix}publik* 🆕
-⪼⦁ *${prefix}killerbee* 🆕
-⪼⦁ *${prefix}antitrace* 🆕
-⪼⦁ *${prefix}antilink [1/0]* 🆕
-⪼⦁ *${prefix}antivirus* 🆕
-⪼⦁ *${prefix}antiban* 🆕
-⪼⦁ *${prefix}antispam* 🆕
-┅─┅─┅─┅─┅─┅─┅─┅─┅─┅─ ❁۪۪
-⚘ *AKSESBILITAS :*
+╭━━━━━━━━━⛚⛚⛚⛚⛚⛚
+┠ *MODE PENGEMBANG*
+╰━━⛚⛚⛚⛚⛚⛚⛚━━━━━━╯
 
-⪼⦁ *${prefix}lampuinfo* 🆕
-⪼⦁ *${prefix}datanegara* 🆕
+☐ *${prefix}leveling [Enable/Disable]*
+☐ *${prefix}Anime [1/0]*
+☐ *${prefix}nsfw [1/0]*
+☐ *${prefix}welcome [1/0]*
+☒ *${prefix}public [memelihara]*
+☒ *${prefix}event [memelihara]*
+☒ *${prefix}antitrace [memelihara]*
+☒ *${prefix}antilink [Memelihara]*
+☒ *${prefix}antivirus [Memelihara]*
+☒ *${prefix}antiban [Memelihara]*
+☒ *${prefix}antispam [Memelihara]*
 ┅─┅─┅─┅─┅─┅─┅─┅─┅─┅─ ❁۪۪
-⚘ *EREN YEAGER BUSSINESS :*
+● *AKSESBILITAS :*
 
-⪼⦁ *${prefix}kontakdeveloper*
-⪼⦁ *${prefix}daftarmemberselebgram*
+☐ *${prefix}killerbee* 🆕
+- *${prefix}killerbee1 [On]*
+- *${prefix}killerbee0 [Off]*
+- *penjelasan : ${prefix}jspkb*
 ┅─┅─┅─┅─┅─┅─┅─┅─┅─┅─ ❁۪۪
-◪ *SPECIAL BIG THANKS TO :*
+● *EREN YEAGER BUSSINESS :*
 
-*© MhankBar2 | Arugia | Adiwajshing | xptn | tobz | Pengguna bot | maslent | VHTears | Nazwa | Arifi Razzaq | Agusecaliph | Rey | rizki | Aulia | natasya | Drawl Nag | Nayla | Khadijah | Aurel | Galuh | Ramlan | Narutomo | Anker | All. Creator Bot lainnya.*
+☐ *${prefix}kontakdeveloper*
+☐ *${prefix}daftarmemberselebgram*
+☒ *${prefix}daftaragenfollowers*
+☒ *${prefix}daftaragentopupgaming*
+☒ *${prefix}jasapromosi*
+☒ *${prefix}ppendorse*
+┅─┅─┅─┅─┅─┅─┅─┅─┅─┅─ ❁۪۪
+● *Special BIG Thanks To :*
+
+MhankBar2
+Arugia
+Adiwajshing
+xptn
+tobz
+Pengguna bot
+maslent
+nazwa
+Arifi
+Aguse
+caliph
+Rey
+rizki
+Aulia
+natasya
+Khadijah
+Aurel
+Galuh
+Ramlan
+Anker
+All. Creator Bot lainnya.
 ┅─┅─┅─┅─┅─┅─┅─┅─┅─┅─ ❁۪۪
 
           ▉║█▐▉▉▐▐▍█║▍▉▏▍▍
           ▉║█▐▉▉▐▐▍█║▍▉▏▍▍
    
-             *© Arifi Razzaq*
-             
-*Jangan Lupa Donasi ”_“*
-https://saweria.co/Arifirazzaq2001
+             ©️ *Arifi Razzaq*
+
 `
 }
 exports.help = help
